@@ -1,4 +1,4 @@
-![pdk-validate](https://github.com/bsper2/puppet-profile_timezone/workflows/pdk-validate/badge.svg)
+![pdk-validate](https://github.com/bsper2/puppet-profile_timezone/workflows/pdk-validate/badge.svg) ![yamllint](https://github.com/bsper2/puppet-profile_timezone/workflows/yamllint/badge.svg)
 
 # profile_timezone
  
