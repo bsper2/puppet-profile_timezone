@@ -1,3 +1,5 @@
+![pdk-validate](https://github.com/bsper2/puppet-profile_timezone/workflows/pdk-validate/badge.svg)
+
 # profile_timezone
  
 Configures timezone
