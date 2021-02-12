@@ -9,6 +9,4 @@ jobs:
     steps:
       - uses: "actions/checkout@v1"
       - name: "yaml-lint"
-      - uses: "ibiqlik/action-yamllint@v3"
-        with:
-          config_file: .yamllint.yml
+        uses: "ibiqlik/action-yamllint@v3"
