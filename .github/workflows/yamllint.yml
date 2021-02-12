@@ -13,6 +13,11 @@ jobs:
         with:
           config_data: |
             extends: default
+            ignore: |
+                .gitlab-ci.yml
+                .rubocop.yml
+                .travis.yml
+                appveyor.yml
             rules:
               line-length: disable
               indentation: {spaces: 2, indent-sequences: true}
