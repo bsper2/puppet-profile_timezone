@@ -1,4 +1,4 @@
-config_data: |
-  extends : default
+#config_data: |
+  #extends : default
   #rules:
    # line-length: false
