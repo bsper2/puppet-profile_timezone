@@ -15,3 +15,8 @@ jobs:
             extends: default
             rules:
               line-length: disable
+              indentation: {spaces: 2, indent-sequences: true}
+              comments-indentation: false
+              comments:
+                require-starting-space: false
+              quoted-strings: {quote-type: "double"}
